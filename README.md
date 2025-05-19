@@ -1,4 +1,4 @@
-# hello everyone I'm ripki
+# 😎hello everyone I'm ripki
 ## telkom university informatics undergraduate student
 
 
