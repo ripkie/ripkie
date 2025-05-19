@@ -1,5 +1,5 @@
-#hello everyone I'm ripki
-###telkom university informatics undergraduate student
+# hello everyone I'm ripki
+## telkom university informatics undergraduate student
 
 
 # 💻 Tech Stack:
