@@ -1,5 +1,5 @@
 # 😎Hello Everyone I'm Ripki
-## telkom university informatics undergraduate student
+## _AJARIN AKU DONG PUH_
 
 
 # 💻 Tech Stack:
